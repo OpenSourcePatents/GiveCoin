@@ -1,6 +1,6 @@
 # GiveCoin: Decentralized Charity Platform
 
-## Defensive Publication — Prior Art Disclosure
+## Defensive Publication — Prior Art Disclosure.
 
 **Author:** Charles W. Dowd Jr.  
 **Original Conception:** ~2023  
